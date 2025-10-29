@@ -6,4 +6,15 @@
 h1{
     color: brown;
     font-size: 3rem;
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    color: aquamarine;
+    height: 200px;
+    width: 200px;
+    border: solid black 1px;
+    justify-content: center;
+    justify-items: center;
 }
