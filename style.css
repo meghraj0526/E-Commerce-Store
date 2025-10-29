@@ -14,7 +14,14 @@ ul{
     color: aquamarine;
     height: 200px;
     width: 200px;
-    border: solid black 1px;
-    justify-content: center;
-    justify-items: center;
+    margin: 20px auto;
+    background-color: brown;
+    border: solid black 3px;
+    align-items: center;
+    /* text-align: center; */
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    
 }
+
